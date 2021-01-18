@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Walisson Aguirra",
+  "scripts": {
+    "dev": "yarn nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
